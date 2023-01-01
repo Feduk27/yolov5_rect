@@ -7,8 +7,13 @@ Rect_find.ipynb contains learning information on custom dataset of Yolo v5 based
 
 Exsamle of generated image:
 
-![974](https://user-images.githubusercontent.com/103634666/205286132-92a397e7-8228-4b3c-a499-2f69b58c22d2.png)
+<p align = 'center'>
+<img width="500" alt="Снимок экрана 2023-01-01 в 15 38 49" src="https://user-images.githubusercontent.com/103634666/205286132-92a397e7-8228-4b3c-a499-2f69b58c22d2.png">
+</p>
+
 
 Exsamples of detection by neural network:
 
-![Без названия](https://user-images.githubusercontent.com/103634666/205288378-0ffff54b-91d9-4cc2-9be3-350214cdb12e.jpeg)
+<p align = 'center'>
+  <img width = '700' src = "https://user-images.githubusercontent.com/103634666/205288378-0ffff54b-91d9-4cc2-9be3-350214cdb12e.jpeg">
+</p>
