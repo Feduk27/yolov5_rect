@@ -1,7 +1,7 @@
 # yolov5_rect
 ### The purpose of this project is learning to work with Yolov5 neural network with custom dataset
 
-RectClass.py creating a dataset for rectangle detection. Color, size and location of every rectangle and background is different. Pictures of rectangles and circumscribing rectangle coordinates are being saved in different folders.
+RectClass.py creating a dataset for rectangle detection. Color, size and location of every rectangle and every background color is random. Pictures of rectangles and circumscribing rectangle coordinates are being saved in different folders.
 
 Rect_find.ipynb contains learning information on custom dataset of Yolo v5 based neural network. 
 
